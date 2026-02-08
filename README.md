@@ -61,3 +61,6 @@ The script fetches the latest script.js from the GitHub repository and injects i
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+- script.js was written by the Aprel Team
